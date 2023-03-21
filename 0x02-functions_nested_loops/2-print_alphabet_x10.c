@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10 - prints the alphabet in lowercase (x10), followed by a new line.
+ * print_alphabet_x10 - prints the alphabet in lowercase (x10)
  */
 
 void print_alphabet_x10(void)
 {
-        int i;
+	int i;
 	int j;
 
 	for (j = 1; j <= 10; j++)
